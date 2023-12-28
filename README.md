@@ -11,7 +11,6 @@
 - [Security Scanning with Trivy and OWASP](#security-scanning-with-trivy-and-owasp)
 - [Monitoring with Grafana and Prometheus](#monitoring-with-grafana-and-prometheus)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
